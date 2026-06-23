@@ -100,7 +100,10 @@ export default function Home() {
             <strong>CEO:</strong> Ejaz Ahmed
           </p>
           <p>
-            <strong>Facebook:</strong> <span>URL placeholder (to be added)</span>
+            <strong>Facebook:</strong>{" "}
+            <a href="https://www.facebook.com/StackEnterprises.dev/">
+              facebook.com/StackEnterprises.dev
+            </a>
           </p>
         </div>
       </section>
